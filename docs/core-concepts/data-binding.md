@@ -61,7 +61,7 @@ const source = fromObject({
 });
 ```
 ``` TypeScript
-import { fromObject } import "data/observable";
+import { fromObject } from "data/observable";
 const source = fromObject({
 	textSource: "Text set via twoWay binding"
 });
